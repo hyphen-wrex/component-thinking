@@ -1,0 +1,17 @@
+.notifications {
+  width: 46px;
+  height: 42px;
+  background: #ffbf00;
+}
+
+.player {
+  width: 210px;
+  height: 42px;
+  background: #ffbf00;
+}
+
+.menu {
+  width: 85px;
+  height: 42px;
+  background: crimson;
+}

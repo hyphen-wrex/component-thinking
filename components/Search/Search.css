@@ -1,0 +1,21 @@
+.search {
+  width: 230px;
+  height: 28px;
+  border-radius: 14px;
+  background: url("./search.svg") 6px center #224b7a no-repeat;
+  color: white;
+  padding-left: 30px;
+}
+
+.search::placeholder {
+  color: #ffbf00;
+}
+
+.search:focus {
+  color: black;
+  background: url("./search-black.svg") 6px center white no-repeat;
+}
+
+.search:focus::placeholder {
+  color: transparent;
+}
